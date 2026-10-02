@@ -23,13 +23,6 @@ dist/
 .vite/
 
 # Test/generated data (large Excel files)
-material-harmonizer/backend/data/cpse_*.xlsx
-material-harmonizer/backend/data/ground_truth.csv
-material-harmonizer/backend/test/cpse_*.xlsx
-material-harmonizer/backend/test/single_row.csv
-material-harmonizer/backend/test/missing_columns.csv
-material-harmonizer/backend/test/empty_body.csv
-material-harmonizer/backend/test/duplicate_codes.xlsx
 
 # Logs
 *.log
