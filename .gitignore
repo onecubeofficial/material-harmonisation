@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment secrets – NEVER commit these
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Test/generated data (large Excel files)
+material-harmonizer/backend/data/cpse_*.xlsx
+material-harmonizer/backend/data/ground_truth.csv
+material-harmonizer/backend/test/cpse_*.xlsx
+material-harmonizer/backend/test/single_row.csv
+material-harmonizer/backend/test/missing_columns.csv
+material-harmonizer/backend/test/empty_body.csv
+material-harmonizer/backend/test/duplicate_codes.xlsx
+
+# Logs
+*.log

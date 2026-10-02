@@ -1,0 +1,167 @@
+{
+  "categories": [
+    {
+      "name": "Fasteners",
+      "code": "FAS",
+      "subcategories": [
+        {"name": "Bolts",       "code": "BLT", "keywords": ["bolt", "hex bolt", "hexagon bolt", "machine bolt", "stud bolt", "carriage bolt", "anchor bolt"]},
+        {"name": "Nuts",        "code": "NUT", "keywords": ["nut", "hex nut", "lock nut", "flange nut", "wing nut", "castle nut", "coupling nut"]},
+        {"name": "Washers",     "code": "WSH", "keywords": ["washer", "spring washer", "plain washer", "lock washer", "tab washer", "disc spring"]},
+        {"name": "Screws",      "code": "SCR", "keywords": ["screw", "machine screw", "self tapping", "set screw", "grub screw", "cap screw", "wood screw"]},
+        {"name": "Studs",       "code": "STD", "keywords": ["stud", "threaded rod", "all thread", "threaded bar"]},
+        {"name": "General",     "code": "GEN", "keywords": ["fastener", "rivet", "pin", "cotter pin", "split pin", "dowel", "clip"]}
+      ]
+    },
+    {
+      "name": "Bearings",
+      "code": "BRG",
+      "subcategories": [
+        {"name": "Ball Bearings",   "code": "BAL", "keywords": ["ball bearing", "deep groove", "angular contact", "thrust ball"]},
+        {"name": "Roller Bearings", "code": "ROL", "keywords": ["roller bearing", "cylindrical roller", "taper roller", "spherical roller", "needle roller", "nu", "nj", "nu3", "nu2"]},
+        {"name": "Plummer Blocks",  "code": "PLM", "keywords": ["plummer block", "pillow block", "bearing housing", "snl", "sns"]},
+        {"name": "General",         "code": "GEN", "keywords": ["bearing", "thrust bearing", "linear bearing", "slewing ring"]}
+      ]
+    },
+    {
+      "name": "Valves",
+      "code": "VLV",
+      "subcategories": [
+        {"name": "Ball Valves",       "code": "BLV", "keywords": ["ball valve"]},
+        {"name": "Gate Valves",       "code": "GTV", "keywords": ["gate valve"]},
+        {"name": "Globe Valves",      "code": "GLV", "keywords": ["globe valve"]},
+        {"name": "Butterfly Valves",  "code": "BFV", "keywords": ["butterfly valve"]},
+        {"name": "Check Valves",      "code": "CHK", "keywords": ["check valve", "non return valve", "nrv", "swing check"]},
+        {"name": "Safety Valves",     "code": "SAF", "keywords": ["safety valve", "relief valve", "pressure relief", "psv", "prv"]},
+        {"name": "Control Valves",    "code": "CTL", "keywords": ["control valve", "actuated valve", "motorized valve"]},
+        {"name": "General",           "code": "GEN", "keywords": ["valve", "cock", "plug valve", "diaphragm valve", "needle valve"]}
+      ]
+    },
+    {
+      "name": "Pipes & Fittings",
+      "code": "PPF",
+      "subcategories": [
+        {"name": "Pipes",       "code": "PIP", "keywords": ["pipe", "ms pipe", "ss pipe", "gi pipe", "pvc pipe", "hdpe pipe", "seamless pipe", "erw pipe", "tube"]},
+        {"name": "Fittings",    "code": "FIT", "keywords": ["elbow", "tee", "reducer", "coupling", "union", "cap", "nipple", "flange", "weld neck", "slip on", "blind flange", "socket weld", "fitting"]},
+        {"name": "Flanges",     "code": "FLG", "keywords": ["flange", "weld neck flange", "slip on flange", "blind flange", "raised face", "flat face"]},
+        {"name": "General",     "code": "GEN", "keywords": ["piping", "pipeline", "conduit", "duct"]}
+      ]
+    },
+    {
+      "name": "Electrical Cables",
+      "code": "ELC",
+      "subcategories": [
+        {"name": "Power Cables",        "code": "PWR", "keywords": ["power cable", "armoured cable", "unarmoured cable", "xlpe cable", "pvc cable", "lv cable", "mv cable", "hv cable"]},
+        {"name": "Control Cables",      "code": "CTL", "keywords": ["control cable", "instrumentation cable", "signal cable", "pair cable", "multicore control"]},
+        {"name": "Flexible Cables",     "code": "FLX", "keywords": ["flexible cable", "flexible wire", "trailing cable", "welding cable"]},
+        {"name": "General",             "code": "GEN", "keywords": ["cable", "wire", "conductor", "wiring"]}
+      ]
+    },
+    {
+      "name": "Electrical Switchgear",
+      "code": "ELS",
+      "subcategories": [
+        {"name": "Circuit Breakers",  "code": "CBR", "keywords": ["circuit breaker", "mcb", "mccb", "acb", "vcb", "sf6 breaker"]},
+        {"name": "Switches",          "code": "SWT", "keywords": ["switch", "isolator", "disconnect switch", "cam switch", "push button", "selector switch", "limit switch"]},
+        {"name": "Starters",          "code": "STR", "keywords": ["starter", "dol starter", "star delta", "vfd", "variable frequency drive", "soft starter", "contactor"]},
+        {"name": "Transformers",      "code": "TRF", "keywords": ["transformer", "distribution transformer", "dry type transformer", "current transformer", "ct", "potential transformer", "pt"]},
+        {"name": "General",           "code": "GEN", "keywords": ["switchgear", "panel", "mcc", "plc", "relay", "timer", "fuse", "busbar", "capacitor bank"]}
+      ]
+    },
+    {
+      "name": "Pumps & Spares",
+      "code": "PMP",
+      "subcategories": [
+        {"name": "Centrifugal Pumps",  "code": "CEN", "keywords": ["centrifugal pump", "end suction pump", "multistage pump", "split case pump"]},
+        {"name": "Positive Displacement", "code": "POS", "keywords": ["gear pump", "screw pump", "lobe pump", "diaphragm pump", "plunger pump", "piston pump", "metering pump"]},
+        {"name": "Pump Spares",        "code": "SPA", "keywords": ["impeller", "casing", "shaft", "mechanical seal", "pump seal", "volute", "diffuser", "wearing ring"]},
+        {"name": "General",            "code": "GEN", "keywords": ["pump", "pumping", "sump pump", "booster pump", "submersible pump"]}
+      ]
+    },
+    {
+      "name": "Gaskets & Seals",
+      "code": "GSK",
+      "subcategories": [
+        {"name": "Gaskets",       "code": "GSK", "keywords": ["gasket", "spiral wound gasket", "ring gasket", "full face gasket", "raised face gasket", "camprofile gasket", "sheet gasket"]},
+        {"name": "O-Rings",       "code": "ORG", "keywords": ["o ring", "o-ring", "oring"]},
+        {"name": "Oil Seals",     "code": "OLS", "keywords": ["oil seal", "lip seal", "rotary seal", "shaft seal", "tc seal"]},
+        {"name": "Packing",       "code": "PCK", "keywords": ["gland packing", "packing ring", "braided packing", "ptfe packing", "graphite packing"]},
+        {"name": "General",       "code": "GEN", "keywords": ["seal", "sealing", "diaphragm", "bellows", "expansion joint"]}
+      ]
+    },
+    {
+      "name": "Lubricants & Oils",
+      "code": "LUB",
+      "subcategories": [
+        {"name": "Gear Oils",     "code": "GRL", "keywords": ["gear oil", "ep gear", "industrial gear oil", "cep", "omala", "mobilgear", "energol gr"]},
+        {"name": "Hydraulic Oils","code": "HYD", "keywords": ["hydraulic oil", "hydraulic fluid", "hv oil", "iso vg 32", "iso vg 46", "iso vg 68 hydraulic", "tellus", "azolla"]},
+        {"name": "Engine Oils",   "code": "ENG", "keywords": ["engine oil", "motor oil", "sae 40", "sae 20w50", "sae 15w40", "ci-4", "ch-4"]},
+        {"name": "Greases",       "code": "GRS", "keywords": ["grease", "lithium grease", "calcium grease", "ep grease", "nlgi", "alvania", "mobilux"]},
+        {"name": "General",       "code": "GEN", "keywords": ["lubricant", "oil", "lubrication", "cutting oil", "quenching oil", "turbine oil", "compressor oil", "spindle oil"]}
+      ]
+    },
+    {
+      "name": "Safety Items",
+      "code": "SAF",
+      "subcategories": [
+        {"name": "PPE Head",      "code": "HED", "keywords": ["helmet", "hard hat", "safety helmet", "bump cap", "face shield", "welding helmet"]},
+        {"name": "PPE Body",      "code": "BOD", "keywords": ["coverall", "apron", "safety vest", "high visibility", "boiler suit", "fire suit", "chemical suit"]},
+        {"name": "PPE Hands",     "code": "HND", "keywords": ["gloves", "safety gloves", "welding gloves", "rubber gloves", "leather gloves", "cotton gloves", "nitrile gloves"]},
+        {"name": "PPE Feet",      "code": "FET", "keywords": ["safety shoes", "safety boots", "gumboots", "toe cap", "steel toe"]},
+        {"name": "PPE Eyes",      "code": "EYE", "keywords": ["safety glasses", "goggles", "eye protection", "spectacles"]},
+        {"name": "Fall Protection","code": "FAL", "keywords": ["safety harness", "lanyard", "lifeline", "fall arrester", "safety belt"]},
+        {"name": "General",       "code": "GEN", "keywords": ["safety", "fire extinguisher", "first aid", "fire blanket", "emergency", "barricade tape", "caution tape", "ear plug", "ear muff", "respiratory", "mask", "dust mask", "respirator"]}
+      ]
+    },
+    {
+      "name": "Hand Tools",
+      "code": "HNT",
+      "subcategories": [
+        {"name": "Spanners",    "code": "SPN", "keywords": ["spanner", "wrench", "torque wrench", "pipe wrench", "adjustable spanner", "ring spanner", "open end spanner", "combination spanner"]},
+        {"name": "Cutting Tools","code": "CUT", "keywords": ["hack saw", "hand saw", "chisel", "file", "cutter", "blade", "knife", "scissors", "nippers", "pliers", "tin snip"]},
+        {"name": "Hammers",     "code": "HAM", "keywords": ["hammer", "mallet", "sledge hammer", "ball peen", "rubber mallet", "copper hammer"]},
+        {"name": "Measuring",   "code": "MSR", "keywords": ["tape measure", "scale", "vernier", "micrometer", "caliper", "gauge", "spirit level", "try square", "protractor"]},
+        {"name": "General",     "code": "GEN", "keywords": ["tool", "hand tool", "screwdriver", "drill", "punch", "drift", "crow bar", "clamp", "vice", "grip"]}
+      ]
+    },
+    {
+      "name": "Abrasives & Cutting",
+      "code": "ABR",
+      "subcategories": [
+        {"name": "Grinding Wheels", "code": "GRW", "keywords": ["grinding wheel", "grinding disc", "cutting disc", "flap disc", "depressed centre wheel"]},
+        {"name": "Abrasive Paper",  "code": "ABP", "keywords": ["emery paper", "sand paper", "abrasive cloth", "emery cloth", "wet dry paper"]},
+        {"name": "Cutting Inserts", "code": "INS", "keywords": ["cutting insert", "carbide insert", "cermet insert", "turning insert", "milling insert", "indexable"]},
+        {"name": "General",         "code": "GEN", "keywords": ["abrasive", "abrasives", "polishing", "lapping", "honing", "buffing"]}
+      ]
+    },
+    {
+      "name": "Paints & Coatings",
+      "code": "PNT",
+      "subcategories": [
+        {"name": "Primers",     "code": "PRM", "keywords": ["primer", "zinc chromate primer", "red oxide primer", "epoxy primer", "wash primer", "anti-corrosive primer"]},
+        {"name": "Topcoats",    "code": "TOP", "keywords": ["enamel", "alkyd enamel", "epoxy topcoat", "polyurethane paint", "chlorinated rubber", "acrylic paint"]},
+        {"name": "Speciality",  "code": "SPC", "keywords": ["heat resistant paint", "intumescent", "antifouling", "bituminous paint", "road marking", "fluorescent"]},
+        {"name": "General",     "code": "GEN", "keywords": ["paint", "coating", "varnish", "lacquer", "thinner", "brush", "roller", "spray"]}
+      ]
+    },
+    {
+      "name": "Instrumentation",
+      "code": "INS",
+      "subcategories": [
+        {"name": "Pressure",       "code": "PRS", "keywords": ["pressure gauge", "manometer", "pressure transmitter", "differential pressure", "bourdon gauge"]},
+        {"name": "Temperature",    "code": "TMP", "keywords": ["temperature gauge", "thermometer", "thermocouple", "rtd", "pt100", "temperature transmitter", "bimetal thermometer"]},
+        {"name": "Flow",           "code": "FLW", "keywords": ["flow meter", "rotameter", "magnetic flowmeter", "vortex flow", "turbine flow meter", "orifice plate", "flow transmitter"]},
+        {"name": "Level",          "code": "LVL", "keywords": ["level gauge", "level transmitter", "float", "displacer", "radar level", "ultrasonic level"]},
+        {"name": "General",        "code": "GEN", "keywords": ["instrument", "transmitter", "sensor", "detector", "analyser", "controller", "recorder", "indicator"]}
+      ]
+    },
+    {
+      "name": "Packing & Stationery",
+      "code": "PKS",
+      "subcategories": [
+        {"name": "Packing",     "code": "PKG", "keywords": ["packing box", "carton", "corrugated box", "wooden crate", "pallet", "stretch film", "bubble wrap", "foam"]},
+        {"name": "Stationery",  "code": "STN", "keywords": ["paper", "file", "folder", "pen", "pencil", "stamp pad", "register", "notebook", "envelope", "label"]},
+        {"name": "General",     "code": "GEN", "keywords": ["stationery", "office supply", "consumable", "packaging", "tape", "cable tie", "zip tie"]}
+      ]
+    }
+  ]
+}
